@@ -1,4 +1,4 @@
-# Firebase Chat App
+# Chat App (Firebase)
 
 Welcome to the Firebase Chat App repository! This app enables real-time chat functionality using Firebase as the backend. Below is a list of key files and their functionalities:
 
@@ -31,12 +31,3 @@ To use this app:
 1. Clone or download the repository.
 2. Set up your Firebase project and update the `google-services.json` file.
 3. Build and run the app on your Android device or emulator.
-
-## Notes
-
-- This repository provides a basic structure for a Firebase-based chat app. You can extend and customize it as per your requirements.
-- Make sure to handle security and privacy aspects when implementing user authentication and chat features.
-
-For more details about Firebase services and Android app development, refer to the official [Firebase Documentation](https://firebase.google.com/docs) and [Android Documentation](https://developer.android.com/docs).
-
-Happy coding!
